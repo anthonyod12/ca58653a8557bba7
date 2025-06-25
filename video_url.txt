@@ -1,0 +1,5 @@
+Player URL:
+https://anthonyod12.github.io/player/?list=https://raw.githubusercontent.com/anthonyod12/ca58653a8557bba7/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/anthonyod12/ca58653a8557bba7/refs/heads/master/github_master.m3u8
